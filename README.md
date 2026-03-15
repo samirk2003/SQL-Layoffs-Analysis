@@ -86,11 +86,10 @@ This project uses several important SQL concepts including:
 
 Project Files
 
-SQL-Layoffs-Analysis
-│
-├── layoffs.csv
-├── 01_data_cleaning.sql
-└── 02_exploratory_data_analysis.sql
+SQL-Layoffs-Analysis :
+layoffs.csv
+01_data_cleaning.sql
+02_exploratory_data_analysis.sql
 
 ---
 
