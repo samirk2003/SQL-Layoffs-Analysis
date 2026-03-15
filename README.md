@@ -1,7 +1,7 @@
 SQL Layoffs Analysis :
 
 This project analyzes global layoffs data using SQL.
-The goal of this project is to clean the raw dataset and perform exploratory data analysis (EDA) to understand layoffs trends across companies, industries, countries, and time.
+The goal of this project is to clean the raw dataset and perform exploratory data analysis (EDA) to understand layoffs trends across companies, industries, countries, & time.
 
 ---
 
